@@ -6,4 +6,3 @@ features
         optional
             NFC
             GPS
-smartphone,Smartphone,,A configurable smartphone,smartphone.uvl
